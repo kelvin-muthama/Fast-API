@@ -1,0 +1,6 @@
+aiosqlite>=0.21.0
+fastapi>=0.118.0
+sqlalchemy>=2.0.0
+imagekitio>=4.2.0
+python-dotenv>=1.2.4
+uvicorn[standard]>=0.37.0   
